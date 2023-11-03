@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Skills👋
+### 🌱 I’m currently learning
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -28,3 +28,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 </span>
+
+### 📫 How to reach me: ...
+<span>
+  <a href="mailto:﻿"kplhn6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://gr0wingdeveloper.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF4785?style=flat-square&logo=tistory&logoColor=white"/></a>
+</span>
+
+
+
+
+  
