@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FFF0F0&fontColor=8C8585&height=100&section=header&text=yurimeeee's%20Github%20!&%20render&fontSize=40&animation=twinkling)
+<!--![header](https://capsule-render.vercel.app/api?type=soft&color=FFF0F0&fontColor=8C8585&height=100&section=header&text=yurimeeee's%20Github%20!&%20render&fontSize=40&animation=twinkling)-->
 ### 👋 Hi there ~
 <p>프론트엔드 개발자를 꿈꾸는 김유림입니다.</p>
 
