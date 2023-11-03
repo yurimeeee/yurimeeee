@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Skills👋
+### 🌱 I’m currently learning ...
 <div style="width: 400px;">
   <span style="width: 400px; display:inline-block">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </div>
 
 
-### 📫 How to reach me: ...
+### 📫 How to reach me ...
 <span>
   <a href="mailto:kplhn6@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://gr0wingdeveloper.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF4F8B?style=flat-square&logo=tistory&logoColor=white"/></a>
