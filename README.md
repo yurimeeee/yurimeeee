@@ -1,6 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=soft&color=FFF0F0&fontColor=8C8585&height=100&section=header&text=yurimeeee's%20Github%20!&%20render&fontSize=40&animation=twinkling)-->
 ### 👋 Hi there ~
-<p>프론트엔드 개발자를 꿈꾸는 김유림입니다.</p>
+<p>프론트엔드 개발자 김유림입니다.</p>
 
 <!--
 **yurimeeee/yurimeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,12 +25,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   </span>
 </div>
 
 <div style="width: 400px;">
   <span style="width: 400px; display:inline-block">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white"/>
