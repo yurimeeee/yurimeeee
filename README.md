@@ -1,7 +1,7 @@
 <!--![header](https://capsule-render.vercel.app/api?type=soft&color=FFF0F0&fontColor=8C8585&height=100&section=header&text=yurimeeee's%20Github%20!&%20render&fontSize=40&animation=twinkling)-->
 
 <!--<p>프론트엔드 개발자 김유림입니다.</p>-->
-<p>프론트엔드 개발자 김유림입니다.</p>
+
 <!--
 **yurimeeee/yurimeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
